@@ -9,6 +9,7 @@
   "author": "bruce oh",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.4",
     "lodash": "^4.17.11"
   }
 }
